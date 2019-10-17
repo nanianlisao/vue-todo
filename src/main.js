@@ -6,6 +6,7 @@ import store from './store';
 Vue.config.productionTip = false;
 var a = 1;
 a = 20;
+a = 32;
 console.log(a);
 new Vue({
     router,
